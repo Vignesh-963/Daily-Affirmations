@@ -1,0 +1,7 @@
+@import url("https://fonts.googleapis.com/css2?family=Overlock:ital,wght@1,900&display=swap");
+
+* {
+  font-family: "Overlock", cursive;
+  font-size: xx-large;
+  --animate-duration: 9s;
+}
