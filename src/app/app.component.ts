@@ -34,7 +34,7 @@ export class AppComponent implements OnInit {
     this.affirmation = this.affirmationsData[randomIndex].phrase
 
     let appComponentObj = this
-    setInterval(function () { appComponentObj.getRandomAffirmations(); }, 3000);
+    setTimeout(function () { appComponentObj.getRandomAffirmations(); }, 1000);
   }
 
 }
