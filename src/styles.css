@@ -1,10 +1,10 @@
 /* You can add global styles to this file, and also import other style files */
 
 body {
-  background: #37119a;
-  background: -webkit-linear-gradient(top left, #37119a, #ff22f5);
-  background: -moz-linear-gradient(top left, #37119a, #ff22f5);
-  background: linear-gradient(to bottom right, #37119a, #ff22f5);
+  background: #9785d8;
+  background: -webkit-linear-gradient(top left, #9785d8, #3bdaa9);
+  background: -moz-linear-gradient(top left, #9785d8, #3bdaa9);
+  background: linear-gradient(to bottom right, #9785d8, #3bdaa9);
   color: whitesmoke;
   height: 100%;
   margin: 0;
