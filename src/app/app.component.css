@@ -5,3 +5,8 @@
   font-size: xx-large;
   --animate-duration: 9s;
 }
+
+p {
+  margin-top: 20vh;
+  text-align: center;
+}
